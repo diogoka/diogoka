@@ -13,18 +13,17 @@
 
 <h1></h1>
 
-
 <div id="badges" align="center">
-<a href="https://www.instagram.com/_diogoka/">
+<a href="https://www.instagram.com/_diogoka/" target="_blank">
   <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png"/>
 </a>
-<a href="https://www.linkedin.com/in/diogo-krub-de-almeida-b83904a0/">
+<a href="https://www.linkedin.com/in/diogo-krub-de-almeida-b83904a0/" target="_blank">
   <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-1024.png"/>
 </a>
-<a href="https://twitter.com/diogokrub">
+<a href="https://twitter.com/diogokrub" target="_blank">
   <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png"/>
 </a>
-<a href="https://www.facebook.com/diogokrub/">
+<a href="https://www.facebook.com/diogokrub/" target="_blank">
   <img height="40" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-1024.png"/>
 </a>
 </div>
@@ -56,7 +55,8 @@ currently_learning:
   ]
 2023 goals: [
   "Become a better Full Stack Developer",
-  "Build 5+ projects"
+  "Build 5+ projects",
+  "Learn new languages and improve the ones I already know"
   ]
 hobbies: 
   [
