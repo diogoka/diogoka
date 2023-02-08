@@ -51,7 +51,8 @@ currently_learning:
   [
     "Python",
     "PHP",
-    "AWS"
+    "AWS",
+    "C#"
   ]
 2023 goals: [
   "Become a better Full Stack Developer",
