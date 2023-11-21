@@ -37,34 +37,31 @@
 ```yaml
 name: Diogo Krub de Almeida
 based_in: Vancouver, British Columbia
-background:
-  [
-    "Software Engineering (50%)",
+Position: Teaching Assistant of Web Application Development
+background: [
+    "Software Engineering (50%)", 
     "Web and Mobile Application Development"
+    ]
+interests: [
+  "Web and Mobile Development", 
+  "Database modeling"
   ]
-interests:
-  [
-    "Web and Mobile Development",
-    "Database modeling"
+currently_learning: [
+  "Python", 
+  "PHP", 
+  "AWS", 
+  "C#"
   ]
-currently_learning: 
-  [
-    "Python",
-    "PHP",
-    "AWS",
-    "C#"
+goals_2023: [
+    "Become a better Full Stack Developer",
+    "Build 5+ projects",
+    "Learn new languages and improve the ones I already know",
   ]
-2023 goals: [
-  "Become a better Full Stack Developer",
-  "Build 5+ projects",
-  "Learn new languages and improve the ones I already know"
-  ]
-hobbies: 
-  [
-  "Photography",
+hobbies: [
+  "Photography", 
   "Gaming", 
   "Series", 
-  "Gym",
+  "Gym", 
   "Hiking"
   ]
 ```
