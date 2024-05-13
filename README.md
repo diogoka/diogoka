@@ -20,9 +20,6 @@
 <a href="https://www.linkedin.com/in/diogo-krub-de-almeida-b83904a0/" target="_blank">
   <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-1024.png"/>
 </a>
-<a href="https://twitter.com/diogokrub" target="_blank">
-  <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png"/>
-</a>
 <a href="https://www.facebook.com/diogokrub/" target="_blank">
   <img height="40" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-1024.png"/>
 </a>
