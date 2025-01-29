@@ -34,7 +34,7 @@
 ```yaml
 name: Diogo Krub de Almeida
 based_in: Vancouver, British Columbia
-Position: Teaching Assistant of Web Application Development
+Position: Full Stack Developer
 background: [
     "Software Engineering",
     "Web and Mobile Application Development"
@@ -50,7 +50,7 @@ currently_learning: [
   "React Native",
   "C#"
   ]
-goals_2023: [
+goals_2025: [
     "Launch my own App",
     "Learn new languages and improve the ones I already know",
   ]
