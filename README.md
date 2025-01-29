@@ -36,29 +36,29 @@ name: Diogo Krub de Almeida
 based_in: Vancouver, British Columbia
 Position: Teaching Assistant of Web Application Development
 background: [
-    "Software Engineering (50%)", 
+    "Software Engineering",
     "Web and Mobile Application Development"
+    "UI/UX Design"
     ]
 interests: [
-  "Web and Mobile Development", 
-  "Database modeling"
+  "Web and Mobile Development",
+  "UI/UX Design",
   ]
 currently_learning: [
-  "Python", 
-  "PHP", 
-  "AWS", 
+  "Python",
+  "PHP",
+  "React Native",
   "C#"
   ]
 goals_2023: [
-    "Become a better Full Stack Developer",
-    "Build 5+ projects",
+    "Launch my own App",
     "Learn new languages and improve the ones I already know",
   ]
 hobbies: [
-  "Photography", 
-  "Gaming", 
-  "Series", 
-  "Gym", 
+  "Photography",
+  "Gaming",
+  "Series",
+  "Gym",
   "Hiking"
   ]
 ```
@@ -78,9 +78,17 @@ hobbies: [
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" title="Next.JS" alt="Next.JS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+          
+          
+  
+  
 </div>
 </p>
 <p align="left">
